@@ -5,7 +5,7 @@
 
 |-|-|
 -|-
-| With inbuilt themes, you can customize the look of | ![Cali`s 7pub](shorturl.at/oxJPR) |
+| With inbuilt themes, you can customize the look of | [Cali7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false) |
 | the card without doing any manual customization | |
 
 > Use `?theme=THEME_NAME` parameter like so :-
@@ -26,5 +26,5 @@
 
 
 ```md
-![Cali`s 7pub](shorturl.at/hqJ13)
+[Cali7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false)
 ```
