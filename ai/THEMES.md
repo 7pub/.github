@@ -16,8 +16,12 @@
 > A brief Look at the given URL. Syntax Uniform Resource Locater
 
 | Protokoll | Subdomain           | Domain | TLD |
--|-|-|-|-|-
+|-|-|-|-|
 | https://  | github-readme-stats | vercel | app |
+
+| Protokoll |Subdomain | domain.tld | Authentifizierung | Colors | Icons |
+|-|-|-|-|
+| https: | github-readme-stats.vercel.app | api?username=%GITUSER% | &theme=light | &show_icons=false |
 
 ```md
 ![Cali`s 7pub](shorturl.at/hqJ13)
