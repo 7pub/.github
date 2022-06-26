@@ -16,7 +16,7 @@
 > A brief Look at the given URL. Syntax Uniform Resource Locater
 
 | Protokoll | Subdomain           | Domain | TLD |
--|-|-|-|-
+-|-|-|-|-|-
 | https://  | github-readme-stats | vercel | app |
 
 ```md
