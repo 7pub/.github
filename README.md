@@ -19,15 +19,19 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
       <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
     </a>
+  
     <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
       <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
     </a>  
+  
     <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
       <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
     </a>
-      <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
       <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
     </a>
+  
   </p>
   
   <p align="center">
@@ -39,6 +43,7 @@
 <p align="center">
   You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
 </p>
+
 <p align="center">
   <a href="https://github.com/sponsors/ryo-ma">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
@@ -48,6 +53,7 @@
 
 <details>
   <summary></summary>
+  
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
 <title>Git Credential Manager - Authentication Succeeded</title>
