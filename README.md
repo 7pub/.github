@@ -1,7 +1,7 @@
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
 <title>Git Credential Manager - Authentication Succeeded</title>
-<style type="text/css" url="readme.css"></style>
+<link type="text/css" src="readme.css" />
 
 </head>
 <body>
