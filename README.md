@@ -9,14 +9,21 @@
     <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
 
   <h2 align="center">GitHub Profile Trophy</h2>
+  
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+
 </span>  
+  
 <br>
-<p align="center">
+
+  <p align="center">
+
   <a href="https://github.com/sponsors/7pub">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
+
 </p>
+
 </details>
 
 <details>
