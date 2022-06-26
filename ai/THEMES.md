@@ -5,7 +5,7 @@
 
 |-|-|
 -|-
-| With inbuilt themes, you can customize the look of | ![Cali`s 7pub](shorturl.at/hqJ13) |
+| With inbuilt themes, you can customize the look of | ![Cali`s 7pub](./shorturl.at/hqJ13) |
 | the card without doing any manual customization | |
 
 > Use `?theme=THEME_NAME` parameter like so :-
@@ -19,9 +19,11 @@
 |-|-|-|-|
 | https://  | github-readme-stats | vercel | app |
 
+
 | Protokoll | sub.domain.tld | Authentifizierung | Colors | Icons |
-|-|-|-|-|
+-|-|-|-|-|-
 | https:// | github-readme-stats.vercel.app | api?username=%GITUSER% | &theme=light | &show_icons=false |
+
 
 ```md
 ![Cali`s 7pub](shorturl.at/hqJ13)
