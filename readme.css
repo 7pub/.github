@@ -36,3 +36,66 @@ p {
   padding: 24px;
   margin: 28px;
 }
+ .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #2f80ed;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+        }
+
+        @supports(-moz-appearance: auto) {
+
+            /* Selector detects Firefox */
+            .header {
+                font-size: 15.5px;
+            }
+        }
+
+        .description {
+            font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #434d58
+        }
+
+        .gray {
+            font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #434d58
+        }
+
+        .icon {
+            fill: #586069
+        }
+
+        .badge {
+            font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif;
+        }
+
+        .badge rect {
+            opacity: 0.2
+        }
+
+
+
+        /* Animations */
+        @keyframes scaleInAnimation {
+            from {
+                transform: translate(-5px, 5px) scale(0);
+            }
+
+            to {
+                transform: translate(-5px, 5px) scale(1);
+            }
+        }
+
+        @keyframes fadeInAnimation {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        * {
+            animation-duration: 0s !important;
+            animation-delay: 0s !important;
+        }
