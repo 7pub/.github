@@ -5,7 +5,7 @@
 
 |-|-|
 -|-
-| With inbuilt themes, you can customize the look of | ![Cali`s 7pub](./shorturl.at/hqJ13) |
+| With inbuilt themes, you can customize the look of | ![Cali`s 7pub](shorturl.at/oxJPR) |
 | the card without doing any manual customization | |
 
 > Use `?theme=THEME_NAME` parameter like so :-
