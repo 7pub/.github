@@ -19,15 +19,10 @@
       <span class="gcm"/>
     
     </div>
-    
     <div class="box">
-      
         <h1>Authentication Succeeded</h1>
         <p>You may now close this tab and return to the application.</p>
-    
     </div>
-  
   </details>
-
   </body>
 </html>
