@@ -1,9 +1,4 @@
-
-
-      <svg
-        width="400"
-        height="120"
-        viewBox="0 0 400 120"
+<svg width="400" height="120" viewBox="0 0 400 120"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
