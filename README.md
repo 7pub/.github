@@ -43,7 +43,6 @@ Use `?theme=THEME_NAME` parameter like so :-
 
 > These themes work both for the Stats Card and Repo Card.
 
-
 |                                                                        |                                                                          |                                                                    |
 | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 |     `default_repocard` ![default_repocard][default_repocard_repo]     |                         `dark` ![dark][dark_repo]                         |                 `radical` ![radical][radical_repo]                 |
