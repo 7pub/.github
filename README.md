@@ -3,7 +3,7 @@
 ## Available Themes
 
 |With inbuilt themes, you can customize the look of |-|
--|-
+|-|-|
 | | ![Cali`s 7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false) |
 | the card without doing any manual customization | |
 
