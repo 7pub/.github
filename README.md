@@ -14,8 +14,8 @@
 ![Cali`s 7pub](shorturl.at/hqJ13)
 ```
 
-Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
+![Cali`s 7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false)
 
 [default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 
-![Cali`s 7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false)
+Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
