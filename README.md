@@ -6,30 +6,6 @@
 
 ## 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 & 𝘙𝘦𝘢𝘴𝘰𝘯 𝘢𝘳𝘦 𝘛𝘦𝘳𝘳𝘪𝘣𝘭𝘦 𝘗𝘢𝘳𝘵𝘯𝘦𝘳𝘴
 
-*Ich hatte meine Augen weit geöffnet als mir klar wurde:*
-
-> + ..dass ich dieser Welt wesentlich mehr zu bieten habe...
-> + ..dass ich dieser Welt wesentlich mehr zu bieten habe...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*...als nur Dinge zu erschaffen, die explodieren.*
-
-
-<table>
-    <tbody>
-        <thead>
-            <th colspan="2"><h3 align="left"></h3></th>
-        </thead>
-            <tr>
-                <td align="right"></td>
-            </tr>
-            <tr>
-                <td align="right"></td>
-            </tr>
-             <tr>
-                <td>&nbsp;</td>
-                <th colspan="2"></th>
-            </tr>
-    </tbody>
-</table>
-
 ![Cali`s 7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false)
 
 Ein einfacher & schlichter funktionaler Programmierkurs, der auf der Javascript-Scriptum-Bibliothek basiert.
