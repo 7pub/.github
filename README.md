@@ -24,9 +24,13 @@ Syntax Uniform Resource Locater
 
 > A brief Look at the given URL.
 
+<code>
+
 | Protokoll |Subdomain | domain.tld | Authentifizierung | Colors | Icons |
 -|-|-|-
 | https: | github-readme-stats.vercel.app | api?username=%GITUSER% | &theme=light | &show_icons=false |
+
+</code>
 
 ```md
 ![Cali`s 7pub](shorturl.at/hqJ13)
