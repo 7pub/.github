@@ -5,10 +5,10 @@
 
 Ein einfacher & schlichter funktionaler Programmierkurs, der auf der Javascript-Scriptum-Bibliothek basiert.
 
-* 1. Teil ist untypisiert
-* 2. Teil ist getippt
+* Teil ist untypisiert
+* Teil ist getippt
 
-You do not need a math or PLT background to follow this course.
+Ich hatte meine Augen offen, als mir klar wurde, dass man keinen mathematischen Hintergrund braucht. Dass ich dieser Welt mehr zu bieten hatte, als nur Dinge zu erschaffen, die explodieren.
 
 ## Available Themes
 
