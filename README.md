@@ -5,11 +5,9 @@
 
 Ich hatte meine Augen offen, als mir klar wurde, dass man keinen mathematischen Hintergrund braucht. Dass ich dieser Welt mehr zu bieten hatte, als nur Dinge zu erschaffen, die explodieren.
 
-Ein einfacher & schlichter funktionaler Programmierkurs, der auf der Javascript-Scriptum-Bibliothek basiert.
-
-## Github Readme Stats
-
 ![Cali`s 7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false)
+
+Ein einfacher & schlichter funktionaler Programmierkurs, der auf der Javascript-Scriptum-Bibliothek basiert.
 
 |With inbuilt themes, you can customize the look of |-|
 |-|-|
