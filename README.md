@@ -22,27 +22,24 @@ Syntax Uniform Resource Locater
 
 > A brief Look at the given URL.
 
-<code>
-
-<dl>
-<dt>Garbage</dt>
-<dt>Rubbish</dt>
-<dd>Waste material that is disposed of.</dd>
-<dd>Television shown during the daytime, "Daytime TV".</dd>
-</dl>
-<dl>
-<dt>Cascading Style Sheets</dt>
-<dd><p>Style sheets are used to provide presentational suggestions.</p>
-<p>Documents structured using XML or HTML are able to make use of them.</p></dd>
-<dt>Content Management</dt>
-<dd>The process of collecting, managing and publishing content to various media.</dd>
-</dl>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
 
 | Protokoll |Subdomain | domain.tld | Authentifizierung | Colors | Icons |
 -|-|-|-
 | https: | github-readme-stats.vercel.app | api?username=%GITUSER% | &theme=light | &show_icons=false |
 
-</code>
 
 ```md
 ![Cali`s 7pub](shorturl.at/hqJ13)
