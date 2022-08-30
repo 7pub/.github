@@ -7,23 +7,23 @@
 ## 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 & 𝘙𝘦𝘢𝘴𝘰𝘯 𝘢𝘳𝘦 𝘛𝘦𝘳𝘳𝘪𝘣𝘭𝘦 𝘗𝘢𝘳𝘵𝘯𝘦𝘳𝘴
 
 <table>
-    <thead>
-        <tr>
-            <th colspan="2"><h3>Ich hatte meine Augen weit geöffnet als mir klar wurde:<h3></th>
-        </tr>
-    </thead>
     <tbody>
-        <tr>
-            <td>Dass ich dieser Welt wesentlich mehr zu bieten habe...</td>
-        </tr>
-        <tr>
-            <td>Dass ich dieser Welt wesentlich mehr zu bieten habe...</td>
-        </tr>
-         <tr>
-            <td>&nbsp;</td>
-            <th colspan="2">...als nur Dinge zu erschaffen, die explodieren.</th>
-        </tr>          
-     </tbody>
+        <thead>
+            <tr>
+                <th colspan="2"><h3>Ich hatte meine Augen weit geöffnet als mir klar wurde:<h3></th>
+            </tr>   
+            <tr>
+                <td>Dass ich dieser Welt wesentlich mehr zu bieten habe...</td>
+            </tr>
+            <tr>
+                <td>Dass ich dieser Welt wesentlich mehr zu bieten habe...</td>
+            </tr>
+             <tr>
+                <td>&nbsp;</td>
+                <th colspan="2">...als nur Dinge zu erschaffen, die explodieren.</th>
+            </tr>
+        </thead>
+    </tbody>
 </table>
 
 ![Cali`s 7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false)
