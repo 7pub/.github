@@ -30,6 +30,13 @@ Syntax Uniform Resource Locater
 <dd>Waste material that is disposed of.</dd>
 <dd>Television shown during the daytime, "Daytime TV".</dd>
 </dl>
+<dl>
+<dt>Cascading Style Sheets</dt>
+<dd><p>Style sheets are used to provide presentational suggestions.</p>
+<p>Documents structured using XML or HTML are able to make use of them.</p></dd>
+<dt>Content Management</dt>
+<dd>The process of collecting, managing and publishing content to various media.</dd>
+</dl>
 
 | Protokoll |Subdomain | domain.tld | Authentifizierung | Colors | Icons |
 -|-|-|-
