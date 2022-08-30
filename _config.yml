@@ -1,9 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: 7pub 
+title: www.cali.run
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: - 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚 𝒖. 𝑹𝒆𝒂𝒔𝒐𝒏 - 𝑎𝑟𝑒 𝑇𝑒𝑟𝑟𝑖𝑏𝑙𝑒 𝑃𝑎𝑟𝑡𝑛𝑒𝑟𝑠
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
