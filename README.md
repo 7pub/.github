@@ -7,7 +7,7 @@ Ich hatte meine Augen offen, als mir klar wurde, dass man keinen mathematischen 
 
 Ein einfacher & schlichter funktionaler Programmierkurs, der auf der Javascript-Scriptum-Bibliothek basiert.
 
-## Available Themes
+## Github Readme Stats
 
 ![Cali`s 7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false)
 
