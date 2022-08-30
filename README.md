@@ -6,23 +6,29 @@
 
 ## 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 & 𝘙𝘦𝘢𝘴𝘰𝘯 𝘢𝘳𝘦 𝘛𝘦𝘳𝘳𝘪𝘣𝘭𝘦 𝘗𝘢𝘳𝘵𝘯𝘦𝘳𝘴
 
+*Ich hatte meine Augen weit geöffnet als mir klar wurde:*
+
+> + ..dass ich dieser Welt wesentlich mehr zu bieten habe...
+> + ..dass ich dieser Welt wesentlich mehr zu bieten habe...
+
+*...als nur Dinge zu erschaffen, die explodieren.*
+
+
 <table>
     <tbody>
         <thead>
+            <th colspan="2"><h3 align="left"></h3></th>
+        </thead>
             <tr>
-                <th colspan="2"><h3>Ich hatte meine Augen weit geöffnet als mir klar wurde:<h3></th>
-            </tr>   
-            <tr>
-                <td>Dass ich dieser Welt wesentlich mehr zu bieten habe...</td>
+                <td align="right"></td>
             </tr>
             <tr>
-                <td>Dass ich dieser Welt wesentlich mehr zu bieten habe...</td>
+                <td align="right"></td>
             </tr>
              <tr>
                 <td>&nbsp;</td>
-                <th colspan="2">...als nur Dinge zu erschaffen, die explodieren.</th>
+                <th colspan="2"></th>
             </tr>
-        </thead>
     </tbody>
 </table>
 
