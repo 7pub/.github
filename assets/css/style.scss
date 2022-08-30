@@ -3,13 +3,5 @@
 
 @import "{{ site.theme }}";
 
-table,
-td {
-    border: 1px solid #63a4e5;
-}
-
-thead,
-tfoot {
-    background-color: ##517990;
-    color: #fff;
-}
+table, td{border:1px solid #63a4e5}
+thead, tfoot{background-color: #517990;color:#fff}
