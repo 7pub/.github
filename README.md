@@ -8,39 +8,9 @@
 
 ![Cali`s 7pub](https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false)
 
-Ein einfacher & schlichter funktionaler Programmierkurs, der auf der Javascript-Scriptum-Bibliothek basiert.
-
-|With inbuilt themes, you can customize the look of |-|
-|-|-|
-| |  |
-| the card without doing any manual customization | |
-
-> Use `?theme=THEME_NAME` parameter like so :-
-
-# You can customize everything you need here.
-
-Syntax Uniform Resource Locater
-
-> A brief Look at the given URL.
-
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">The table header</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
-        </tr>
-    </tbody>
-</table>
-
 | Protokoll |Subdomain | domain.tld | Authentifizierung | Colors | Icons |
 -|-|-|-
 | https: | github-readme-stats.vercel.app | api?username=%GITUSER% | &theme=light | &show_icons=false |
-
 
 ```md
 ![Cali`s 7pub](shorturl.at/hqJ13)
