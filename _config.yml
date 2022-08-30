@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: www.cali.run
 logo: /assets/img/logo.png
-description: - 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚 𝒖. 𝑹𝒆𝒂𝒔𝒐𝒏 - 𝑎𝑟𝑒 𝑇𝑒𝑟𝑟𝑖𝑏𝑙𝑒 𝑃𝑎𝑟𝑡𝑛𝑒𝑟𝑠
+description: 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚 𝒖. 𝑹𝒆𝒂𝒔𝒐𝒏 𝑎𝑟𝑒 𝑇𝑒𝑟𝑟𝑖𝑏𝑙𝑒 𝑃𝑎𝑟𝑡𝑛𝑒𝑟𝑠
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
