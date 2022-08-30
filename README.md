@@ -9,9 +9,7 @@
 *Ich hatte meine Augen weit geöffnet als mir klar wurde:*
 
 > + ..dass ich dieser Welt wesentlich mehr zu bieten habe...
-> + ..dass ich dieser Welt wesentlich mehr zu bieten habe...
-
-*...als nur Dinge zu erschaffen, die explodieren.*
+> + ..dass ich dieser Welt wesentlich mehr zu bieten habe...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*...als nur Dinge zu erschaffen, die explodieren.*
 
 
 <table>
