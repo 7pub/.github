@@ -24,6 +24,13 @@ Syntax Uniform Resource Locater
 
 <code>
 
+<dl>
+<dt>Garbage</dt>
+<dt>Rubbish</dt>
+<dd>Waste material that is disposed of.</dd>
+<dd>Television shown during the daytime, "Daytime TV".</dd>
+</dl>
+
 | Protokoll |Subdomain | domain.tld | Authentifizierung | Colors | Icons |
 -|-|-|-
 | https: | github-readme-stats.vercel.app | api?username=%GITUSER% | &theme=light | &show_icons=false |
