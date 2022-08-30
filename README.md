@@ -3,10 +3,10 @@
 
 ## What
 
-A no-frills functional programming course based on the Javascript scriptum library.
+Ein einfacher & schlichter funktionaler Programmierkurs, der auf der Javascript-Scriptum-Bibliothek basiert.
 
-* 1st part is untyped
-* 2nd part is typed with [yet to be determined]
+* 1. Teil ist untypisiert
+* 2. Teil ist getippt
 
 You do not need a math or PLT background to follow this course.
 
