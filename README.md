@@ -13,7 +13,7 @@
 
 | Protokoll | Subdomain | domain.tld | Authentifizierung | Colors | Icons |
 -|-|-|-|-|-|
-| https: | github-readme-stats.vercel.app | api?username=%GITUSER% | &theme=light | &show_icons=false | |
+| https: | github-readme-stats.vercel.app | api? username=%GITUSER% | &theme=light | &show_icons=false | |
 
 Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
 
