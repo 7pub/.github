@@ -16,3 +16,8 @@
 | https: | github-readme-stats.vercel.app | api?username=%GITUSER% | &theme=light | &show_icons=false | |
 
 Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
+
+<div align="right">
+<p>https://7pub.cali.run/</p>
+<p>https://7pub.github.io/7pub/</p>
+</div>
