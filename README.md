@@ -7,7 +7,7 @@
     </tr>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false" ></td>
-      <td> <section align="center"><img src="/assets/img/banner.png" alt="scriptum"><br></section></td>
+      <td> <section align="right"><img src="/assets/img/banner.png" alt="scriptum"><br></section></td>
     </tr>
     <tr>
       <td></td> 
