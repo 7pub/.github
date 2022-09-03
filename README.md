@@ -6,7 +6,7 @@
       <th></th>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false" ></td>
+      <td></td>
       <td> <section align="right"><img src="/assets/img/banner.png" alt="scriptum"><br></section></td>
     </tr>
     <tr>
@@ -17,6 +17,7 @@
 </div>
 
 <h2>𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 & 𝘙𝘦𝘢𝘴𝘰𝘯 𝘢𝘳𝘦 𝘛𝘦𝘳𝘳𝘪𝘣𝘭𝘦 𝘗𝘢𝘳𝘵𝘯𝘦𝘳𝘴</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false" >
 
 ```md
 ![Cali`s 7pub](shorturl.at/hqJ13)
