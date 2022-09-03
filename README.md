@@ -5,7 +5,7 @@
 
 <h2>𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 & 𝘙𝘦𝘢𝘴𝘰𝘯 𝘢𝘳𝘦 𝘛𝘦𝘳𝘳𝘪𝘣𝘭𝘦 𝘗𝘢𝘳𝘵𝘯𝘦𝘳𝘴</h2>
 
-<table width="100%">
+<table style="width:100%">
   <th>
     <img src="https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false" >
   </th>
