@@ -3,14 +3,14 @@
 <div id="table-wrapper">
   <table>
     <tr>
-      <th>Firstname</th>
-      <th>Lastname</th> 
-      <th>Age</th>
+      <th></th>
+      <th></th> 
+      <th></th>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false" ></td>
       <td></td> 
-      <td></td>
+      <td> <section align="center"><img src="/assets/img/banner.png" alt="scriptum"><br></section></td>
     </tr>
     <tr>
       <td></td>
@@ -21,15 +21,6 @@
 </div>
 
 <h2>𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 & 𝘙𝘦𝘢𝘴𝘰𝘯 𝘢𝘳𝘦 𝘛𝘦𝘳𝘳𝘪𝘣𝘭𝘦 𝘗𝘢𝘳𝘵𝘯𝘦𝘳𝘴</h2>
-
-<table style="width:100%">
-  <th>
-    <img src="https://github-readme-stats.vercel.app/api?username=7pub&theme=light&show_icons=false" >
-  </th>
-  <td>
-    <section align="center"><img src="/assets/img/banner.png" alt="scriptum"><br></section>
-  </td>
-</table>
 
 ```md
 ![Cali`s 7pub](shorturl.at/hqJ13)
