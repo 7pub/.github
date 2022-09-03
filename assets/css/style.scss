@@ -5,3 +5,12 @@
 
 table, td{border:1px solid #63a4e5}
 thead, tfoot{background-color: #517990;color:#fff}
+table, th, td {
+  border: 1px solid red;
+  border-collapse: collapse;
+}
+table{
+    width:100%;
+    table-layout: fixed;
+    overflow-wrap: break-word;
+}
