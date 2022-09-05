@@ -17,4 +17,24 @@
     </foreignObject>
   </g>
 </svg>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="500 500 ">
+    <style>
+        div {
+            color: green;
+            font: 18px serif;
+            height: 100%;
+            overflow: auto;
+            background-color: black;
+        }
+    </style>
+    <foreignObject x="100" y="25" width="160" height="160">
+        <div>
+            <span id="jQueryLoad" class="calivault"></span>
+        </div>
+    </foreignObject>
 </svg>
