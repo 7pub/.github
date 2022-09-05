@@ -17,7 +17,6 @@
 
 ## Hi there 👋
 
-<span id="jQueryLoad" class="calivault"></span>
 <table align="right">
     <tr><th>Public Domain<td>https://7pub.gitproxy.run/</td></th></tr>
     <tr><th>Project Site<td>https://github.com/7pub/.github/</td></th></tr>

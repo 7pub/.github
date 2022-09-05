@@ -10,10 +10,9 @@
             background-color: black;
         }
     </style>
-    <foreignObject x="100" y="25" 
-        width="160" height="160">
+    <foreignObject x="100" y="25" width="160" height="160">
         <div>
-            <br><br>GEEKSFORGEEKS<br><br>
+            <span id="jQueryLoad" class="calivault"></span>
         </div>
     </foreignObject>
 </svg>
