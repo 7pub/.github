@@ -1,1 +1,55 @@
-{"version":3,"sources":["components/Logo/index.js","App.js","index.js"],"names":["particleOptions","filter","x","y","image","get","b","color","radius","Math","random","mass","friction","initialPosition","canvasDimensions","Vector","width","height","motionForce","forces","disturbance","Logo","src","scale","entropy","maxParticles","mouseMoveForce","touchMoveForce","backgroundColor","App","className","rootElement","document","getElementById","ReactDOM","render","StrictMode"],"mappings":"kMAGMA,EAAkB,CACtBC,OAAQ,YAAsB,IAAnBC,EAAkB,EAAlBA,EAAGC,EAAe,EAAfA,EAIZ,OAJ2B,EAAZC,MAEKC,IAAIH,EAAGC,GAEdG,EAAI,IAEnBC,MAAO,cAAGL,EAAH,EAAMC,EAAN,EAASC,MAAT,MAAqB,qBAC5BI,OAAQ,iBAAsB,IAAhBC,KAAKC,SAAkB,KACrCC,KAAM,kBAAM,IACZC,SAAU,iBAAM,KAChBC,gBAAiB,YAA2B,IAAxBC,EAAuB,EAAvBA,iBAClB,OAAO,IAAIC,IAAOD,EAAiBE,MAAQ,EAAGF,EAAiBG,OAAS,KAItEC,EAAc,SAAChB,EAAGC,GACtB,OAAOgB,IAAOC,YAAYlB,EAAGC,EAAG,IAkBnBkB,EAfF,WACX,OACE,kBAAC,IAAD,CACEC,IAAK,iBACLC,MAAO,IACPC,QAAS,EACTC,aAAc,IACdC,eAAgBR,EAChBS,eAAgBT,EAChBlB,gBAAiBA,EACjB4B,gBAAgB,iBC7BP,SAASC,IACtB,OACE,yBAAKC,UAAU,OACb,kBAAC,EAAD,OCFN,IAAMC,EAAcC,SAASC,eAAe,QAC5CC,IAASC,OACP,kBAAC,IAAMC,WAAP,KACE,kBAACP,EAAD,OAEFE,I","file":"static/js/main.754ba035.chunk.js","sourcesContent":["import React from \"react\";\nimport ParticleImage, { Vector, forces } from \"react-particle-image\";\n\nconst particleOptions = {\n  filter: ({ x, y, image }) => {\n    // Get pixel\n    const pixel = image.get(x, y);\n    // Make a particle for this pixel if blue > 50 (range 0-255)\n    return pixel.b > 20;\n  },\n  color: ({ x, y, image }) => \"rgba(85, 107, 47)\",\n  radius: () => Math.random() * 0.25 + 0.25,\n  mass: () => 20,\n  friction: () => 0.25,\n  initialPosition: ({ canvasDimensions }) => {\n    return new Vector(canvasDimensions.width / 2, canvasDimensions.height / 2);\n  }\n};\n\nconst motionForce = (x, y) => {\n  return forces.disturbance(x, y, 3);\n};\n\nconst Logo = () => {\n  return (\n    <ParticleImage\n      src={\"/icon-only.png\"}\n      scale={0.35}\n      entropy={2}\n      maxParticles={4000}\n      mouseMoveForce={motionForce}\n      touchMoveForce={motionForce}\n      particleOptions={particleOptions}\n      backgroundColor=\"transparent\"\n    />\n  );\n};\n\nexport default Logo;\n","import React from \"react\";\nimport \"./styles.css\";\nimport Logo from \"./components/Logo\";\n\nexport default function App() {\n  return (\n    <div className=\"App\">\n      <Logo />\n    </div>\n  );\n}\n","import React from \"react\";\nimport ReactDOM from \"react-dom\";\n\nimport App from \"./App\";\n\nconst rootElement = document.getElementById(\"root\");\nReactDOM.render(\n  <React.StrictMode>\n    <App />\n  </React.StrictMode>,\n  rootElement\n);\n"],"sourceRoot":""}
+{
+    "version": 3,
+    "sources": [
+        "components/Logo/index.js",
+        "App.js",
+        "index.js"
+    ],
+    "names": [
+        "particleOptions",
+        "filter",
+        "x",
+        "y",
+        "image",
+        "get",
+        "b",
+        "color",
+        "radius",
+        "Math",
+        "random",
+        "mass",
+        "friction",
+        "initialPosition",
+        "canvasDimensions",
+        "Vector",
+        "width",
+        "height",
+        "motionForce",
+        "forces",
+        "disturbance",
+        "Logo",
+        "src",
+        "scale",
+        "entropy",
+        "maxParticles",
+        "mouseMoveForce",
+        "touchMoveForce",
+        "backgroundColor",
+        "App",
+        "className",
+        "rootElement",
+        "document",
+        "getElementById",
+        "ReactDOM",
+        "render",
+        "StrictMode"
+    ],
+    "mappings": "kMAGMA,EAAkB,CACtBC,OAAQ,YAAsB,IAAnBC,EAAkB,EAAlBA,EAAGC,EAAe,EAAfA,EAIZ,OAJ2B,EAAZC,MAEKC,IAAIH,EAAGC,GAEdG,EAAI,IAEnBC,MAAO,cAAGL,EAAH,EAAMC,EAAN,EAASC,MAAT,MAAqB,qBAC5BI,OAAQ,iBAAsB,IAAhBC,KAAKC,SAAkB,KACrCC,KAAM,kBAAM,IACZC,SAAU,iBAAM,KAChBC,gBAAiB,YAA2B,IAAxBC,EAAuB,EAAvBA,iBAClB,OAAO,IAAIC,IAAOD,EAAiBE,MAAQ,EAAGF,EAAiBG,OAAS,KAItEC,EAAc,SAAChB,EAAGC,GACtB,OAAOgB,IAAOC,YAAYlB,EAAGC,EAAG,IAkBnBkB,EAfF,WACX,OACE,kBAAC,IAAD,CACEC,IAAK,iBACLC,MAAO,IACPC,QAAS,EACTC,aAAc,IACdC,eAAgBR,EAChBS,eAAgBT,EAChBlB,gBAAiBA,EACjB4B,gBAAgB,iBC7BP,SAASC,IACtB,OACE,yBAAKC,UAAU,OACb,kBAAC,EAAD,OCFN,IAAMC,EAAcC,SAASC,eAAe,QAC5CC,IAASC,OACP,kBAAC,IAAMC,WAAP,KACE,kBAACP,EAAD,OAEFE,I",
+    "file": "static/js/main.754ba035.chunk.js",
+    "sourcesContent": [
+        "import React from \"react\";\nimport ParticleImage, { Vector, forces } from \"react-particle-image\";\n\nconst particleOptions = {\n  filter: ({ x, y, image }) => {\n    // Get pixel\n    const pixel = image.get(x, y);\n    // Make a particle for this pixel if blue > 50 (range 0-255)\n    return pixel.b > 20;\n  },\n  color: ({ x, y, image }) => \"rgba(85, 107, 47)\",\n  radius: () => Math.random() * 0.25 + 0.25,\n  mass: () => 20,\n  friction: () => 0.25,\n  initialPosition: ({ canvasDimensions }) => {\n    return new Vector(canvasDimensions.width / 4, canvasDimensions.height / 4);\n  }\n};\n\nconst motionForce = (x, y) => {\n  return forces.disturbance(x, y, 3);\n};\n\nconst Logo = () => {\n  return (\n    <ParticleImage\n      src={\"/icon-only.png\"}\n      scale={0.35}\n      entropy={2}\n      maxParticles={4000}\n      mouseMoveForce={motionForce}\n      touchMoveForce={motionForce}\n      particleOptions={particleOptions}\n      backgroundColor=\"transparent\"\n    />\n  );\n};\n\nexport default Logo;\n",
+        "import React from \"react\";\nimport \"./styles.css\";\nimport Logo from \"./components/Logo\";\n\nexport default function App() {\n  return (\n    <div className=\"App\">\n      <Logo />\n    </div>\n  );\n}\n",
+        "import React from \"react\";\nimport ReactDOM from \"react-dom\";\n\nimport App from \"./App\";\n\nconst rootElement = document.getElementById(\"root\");\nReactDOM.render(\n  <React.StrictMode>\n    <App />\n  </React.StrictMode>,\n  rootElement\n);\n"
+    ],
+    "sourceRoot": ""
+}
