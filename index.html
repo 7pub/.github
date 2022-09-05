@@ -22,18 +22,21 @@
     <link href="/static/css/main.css" rel="stylesheet">
 </head> 
 <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
     <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
       <style>
-        div {background: pink;font: 12px serif;padding: 10px;}
+        .div {background: pink;font: 12px serif;padding: 10px;}
         .red {color: red;}
         .green {color: green}
       </style>
       <foreignObject x="20" y="20" width="160" height="100">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <p class="red">This is red color</p>
-          <p class="green">This is green color</p>
+        <div id="div" xmlns="http://www.w3.org/1999/xhtml">
+            <div id="root"></div>
         </div>
       </foreignObject>
     </svg>
+    <script src="/static/js/script.js"></script>
+    <script src="/static/js/chunk.js"></script>
+    <script src="/static/js/main.chunk.js"></script>
 </body>
 </html>
