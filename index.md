@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<table>
+<div align="right">
+<h2>Jemand muss den Abschnitt „Q“ aus meinem Wörterbuch gerissen haben</h2>
+</div>
+</table>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.md).
