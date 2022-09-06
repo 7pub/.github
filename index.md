@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<hr>
-<table>
-<div align="right">
-<h2>Jemand muss den Abschnitt „Q“ aus meinem Wörterbuch gerissen haben</h2>
-<hr>
+<div align="center">
+<h1>-Creativity & Reason-<br>Are Terrible Partners</h1>
 </div>
-</table>
 
+Jemand muss den Abschnitt „Q“ aus meinem Wörterbuch gerissen haben
+
+<hr>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.md).
