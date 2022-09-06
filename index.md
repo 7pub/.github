@@ -2,9 +2,11 @@
 layout: default
 ---
 
+<hr>
 <table>
 <div align="right">
 <h2>Jemand muss den Abschnitt „Q“ aus meinem Wörterbuch gerissen haben</h2>
+<hr>
 </div>
 </table>
 
