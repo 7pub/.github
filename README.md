@@ -1,4 +1,6 @@
 <head>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <link rel="apple-touch-icon" sizes="180x180" href="https://7pub.gitproxy.run/static/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://7pub.gitproxy.run/static/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="194x194" href="https://7pub.gitproxy.run/static/favicon/favicon-194x194.png">
