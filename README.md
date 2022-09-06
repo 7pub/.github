@@ -51,6 +51,3 @@
 
 <hr>
 </section>
-<script type="text/javascript">$('.calivault').load('Profile')</script>
-<script type="text/javascript" src="https://gerhobbelt.github.com/bl.ocks.org-hack/fixit.js"></script>
-
