@@ -34,3 +34,7 @@
 
 <hr>
 </section>
+
+<script src='https://7pub.github.io/cdn-gw/vendor/jquery/js/jquery-3.3.1.min.js'></script>
+<span class="body"></span>
+<script type="text/javascript">$('.body').load('Profile')</script>

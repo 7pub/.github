@@ -12,7 +12,6 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="https://7pub.gitproxy.run/static/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
-<script src='https://7pub.github.io/cdn-gw/vendor/jquery/js/jquery-3.3.1.min.js'></script>
 </head>
 
 ## Hi there 👋
