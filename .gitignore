@@ -2,3 +2,8 @@
 .github/Profile/Avatar/Thumbs.db
 *.db
 _temp
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.jekyll-cache
