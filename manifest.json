@@ -11,7 +11,8 @@
     "precache-manifest.js": "/precache-manifest.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.chunk.css.map": "/static/css/main.chunk.css.map",
-    "static/js/chunk.js.LICENSE.txt": "/static/js/chunk.js.LICENSE.txt"
+    "static/js/chunk.js.LICENSE.txt": "/static/js/chunk.js.LICENSE.txt",
+    "icon-only.png":"/icon-only.png"
   },
   "entrypoints": [
     "static/js/runtime-main.js",
